@@ -1,0 +1,387 @@
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.danhsachbenhnhan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+E:\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.danhsachbenhnhan.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThanhDoiThongTinBenhNhan.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiLoaiBenh.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiThongTinThuoc.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemThuocMoi.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachKhamBenh.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+E:\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachKhamBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThanhDoiThongTinBenhNhan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiLoaiBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiThongTinThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemThuocMoi.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiLoaiBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiThongTinThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemThuocMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiThongTinBenhNhan.resources
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+D:\Download\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (9)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+D:\Download\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThayDoiQuyDinh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM (1)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemLoaiBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBenh.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachDichVu.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachTaiKhoan.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+D:\BTL_QLPM\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBenh.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyThuoc.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyDichVu.resources
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyDichVu.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyThuoc.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe.config
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.exe
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\GUI_QLPM.pdb
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.dll
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.dll
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.dll
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMBUS.pdb
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDAL.pdb
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\bin\Debug\QLPMDTO.pdb
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.AssemblyReference.cache
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.SuggestedBindingRedirects.cache
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoDoanhThu.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.BaoCaoSuDungThuoc.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBenh.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachBenhNhan.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyDichVu.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.DanhSachHoaDon.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyTaiKhoan.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyThuoc.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.KeToa.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.LapHoaDon.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Login.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.Properties.Resources.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QLPMMainWindow.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemBenhNhanMoi.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemDichVuMoi.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemPhieuKhamBenh.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.ThemTaiKhoan.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.QuanLyBN.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.TraCuuBenhNhan.resources
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.GenerateResource.cache
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CoreCompileInputs.cache
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.csproj.CopyComplete
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.exe
+D:\OU\LTCSDL\BTL_QLPM\GUI_QLPM\obj\Debug\GUI_QLPM.pdb

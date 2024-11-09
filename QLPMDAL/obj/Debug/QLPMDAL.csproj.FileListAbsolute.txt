@@ -1,0 +1,103 @@
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csprojAssemblyReference.cache
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CopyComplete
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\krypton\source\repos\QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csprojAssemblyReference.cache
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CopyComplete
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\krypton\Desktop\QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\Download\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\Download\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\Download\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\Download\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\Download\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\Download\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\Download\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+D:\Download\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\Download\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.Up2Date
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.AssemblyReference.cache
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CoreCompileInputs.cache
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDAL.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\bin\Debug\QLPMDTO.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMDAL\obj\Debug\QLPMDAL.csproj.CopyComplete

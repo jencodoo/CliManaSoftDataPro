@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ClinicManagementSoftwareDatabaseProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|e:\\clinicmanagementsoftwaredatabaseprogramming\\gui_qlpm\\themdichvumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|solutionrelative:gui_qlpm\\themdichvumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|e:\\clinicmanagementsoftwaredatabaseprogramming\\gui_qlpm\\themtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|solutionrelative:gui_qlpm\\themtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|e:\\clinicmanagementsoftwaredatabaseprogramming\\gui_qlpm\\baocaosudungthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B6B2394-21EF-4937-8554-CEF7B429F3F0}|GUI_QLPM\\GUI_QLPM.csproj|solutionrelative:gui_qlpm\\baocaosudungthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C6DE0F-BA19-4358-AD32-13DB651AABD1}|QLPMBUS\\QLPMBUS.csproj|e:\\clinicmanagementsoftwaredatabaseprogramming\\qlpmbus\\benhnhanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C6DE0F-BA19-4358-AD32-13DB651AABD1}|QLPMBUS\\QLPMBUS.csproj|solutionrelative:qlpmbus\\benhnhanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemDichVuMoi.cs [Design]",
+              "DocumentMoniker": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\ThemDichVuMoi.cs",
+              "RelativeDocumentMoniker": "GUI_QLPM\\ThemDichVuMoi.cs",
+              "ToolTip": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\ThemDichVuMoi.cs [Design]",
+              "RelativeToolTip": "GUI_QLPM\\ThemDichVuMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:17:22.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\ThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI_QLPM\\ThemTaiKhoan.cs",
+              "ToolTip": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\ThemTaiKhoan.cs [Design]",
+              "RelativeToolTip": "GUI_QLPM\\ThemTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:17:21.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaoCaoSuDungThuoc.cs [Design]",
+              "DocumentMoniker": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\BaoCaoSuDungThuoc.cs",
+              "RelativeDocumentMoniker": "GUI_QLPM\\BaoCaoSuDungThuoc.cs",
+              "ToolTip": "E:\\ClinicManagementSoftwareDatabaseProgramming\\GUI_QLPM\\BaoCaoSuDungThuoc.cs [Design]",
+              "RelativeToolTip": "GUI_QLPM\\BaoCaoSuDungThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:17:20.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "benhnhanBUS.cs",
+              "DocumentMoniker": "E:\\ClinicManagementSoftwareDatabaseProgramming\\QLPMBUS\\benhnhanBUS.cs",
+              "RelativeDocumentMoniker": "QLPMBUS\\benhnhanBUS.cs",
+              "ToolTip": "E:\\ClinicManagementSoftwareDatabaseProgramming\\QLPMBUS\\benhnhanBUS.cs",
+              "RelativeToolTip": "QLPMBUS\\benhnhanBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:17:15.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

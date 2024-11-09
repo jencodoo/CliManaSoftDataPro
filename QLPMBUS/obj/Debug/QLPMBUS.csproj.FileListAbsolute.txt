@@ -1,0 +1,132 @@
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csprojAssemblyReference.cache
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CopyComplete
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\krypton\source\repos\QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csprojAssemblyReference.cache
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CopyComplete
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\krypton\Desktop\QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (5)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\Download\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\Download\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\Download\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\Download\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+D:\Download\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\Download\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\BTLLTCSDL\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.Up2Date
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\New folder (2)\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMBUS.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDAL.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\bin\Debug\QLPMDTO.pdb
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.AssemblyReference.cache
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CoreCompileInputs.cache
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.csproj.CopyComplete
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.dll
+D:\OU\LTCSDL\BTL_QLPM\QLPMBUS\obj\Debug\QLPMBUS.pdb

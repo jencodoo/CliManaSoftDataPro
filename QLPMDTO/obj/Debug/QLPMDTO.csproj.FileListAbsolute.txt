@@ -1,0 +1,48 @@
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\obj\Debug\QLPMDTO.csprojAssemblyReference.cache
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+C:\Users\krypton\source\repos\QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\obj\Debug\QLPMDTO.csprojAssemblyReference.cache
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+C:\Users\krypton\Desktop\QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\bin\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\bin\Debug\QLPMDTO.pdb
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\obj\Debug\QLPMDTO.dll
+C:\Users\acern\OneDrive - TRƯỜNG ĐẠI HỌC MỞ TP.HCM\Desktop\LTCSDL\QLPhongMachTu\QLPMDTO\obj\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\obj\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL\QLPMDTO\obj\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+D:\Data\Learning\Lập trình cơ sở dữ liệu\temp\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
+D:\Download\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+D:\Download\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+D:\Download\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+D:\Download\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+D:\Download\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+D:\Download\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\bin\Debug\QLPMDTO.pdb
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.AssemblyReference.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.csproj.CoreCompileInputs.cache
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.dll
+D:\BTL_QLPM\BTL_QLPM\QLPMDTO\obj\Debug\QLPMDTO.pdb
